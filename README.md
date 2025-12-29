@@ -1,4 +1,4 @@
-<img width="947" height="678" alt="image" src="https://github.com/user-attachments/assets/0f577257-0dfa-4698-a3fc-9137ce3be3fe" /># StudyFlow
+# StudyFlow
 
 A simple full-stack task management application.
 
